@@ -1,0 +1,19 @@
+{
+  "name": "confusion",
+  "version": "1.0.0",
+  "description": "Learning web dev with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colindsouza777/confusion.git"
+  },
+  "author": "Colin Dsouza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colindsouza777/confusion/issues"
+  },
+  "homepage": "https://github.com/colindsouza777/confusion#readme"
+}
