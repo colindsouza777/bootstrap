@@ -6,7 +6,7 @@
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite":"lite-server"
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,13 @@
   },
   "homepage": "https://github.com/colindsouza777/confusion#readme",
   "devDependencies": {
-    "lite": "^4.0.5",
-    "server": "^1.0.29"
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.12.9"
   }
 }
